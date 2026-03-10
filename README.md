@@ -7,7 +7,7 @@
 No necesitas descargar el código fuente para jugar, ya que la imagen está publicada en **Docker Hub**. Solo sigue estos pasos:
 
 ### 1. Requisitos
-* Tener instalado [Docker Hub (naipeer/dino-calamot)](https://hub.docker.com/r/naipeer/dino-calamot) en Windows, Mac o Linux.
+* Tener instalado Docker y [Imagen Dino (naipeer/dino-calamot)](https://hub.docker.com/r/naipeer/dino-calamot) en tu sistema.
 
 ### 2. Configuración
 Crea un archivo llamado `docker-compose.yml` en cualquier carpeta de tu ordenador y pega el siguiente código:
@@ -41,7 +41,7 @@ volumes:
 
 ### 3. Ejecución
 
-Abre una terminal (PowerShell o CMD en Windows) en esa carpeta y ejecuta:
+Abre una terminal en esa carpeta y ejecuta:
 
 ```bash
 docker-compose up -d
@@ -73,6 +73,6 @@ Una vez levantado, abre tu navegador y entra en:
 
 ## 👤 Autor
 
-Proyecto creado por **naipeer**.
+Proyecto creado por **Eric-Alba o naipeer**.
 IES El Calamot.
 
