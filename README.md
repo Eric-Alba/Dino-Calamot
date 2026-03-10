@@ -76,6 +76,3 @@ Una vez levantado, abre tu navegador y entra en:
 Proyecto creado por **naipeer**.
 IES El Calamot.
 
-```
-
-```
