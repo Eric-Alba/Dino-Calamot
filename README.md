@@ -7,7 +7,7 @@
 No necesitas descargar el código fuente para jugar, ya que la imagen está publicada en **Docker Hub**. Solo sigue estos pasos:
 
 ### 1. Requisitos
-* Tener instalado **Docker Desktop** en Windows, Mac o Linux.
+* Tener instalado [Docker Hub (naipeer/dino-calamot)](https://hub.docker.com/r/naipeer/dino-calamot) en Windows, Mac o Linux.
 
 ### 2. Configuración
 Crea un archivo llamado `docker-compose.yml` en cualquier carpeta de tu ordenador y pega el siguiente código:
